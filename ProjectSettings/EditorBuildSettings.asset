@@ -5,7 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Dev/Scenes/Sce_Menu.unity
+    guid: 3822c20b838035a4091611e3e0f727b4
+  - enabled: 1
+    path: Assets/Dev/Scenes/Sce_TeamSelection.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Dev/Scenes/Sce_MatchList.unity
+    guid: 071e31f705c1e89448e9cdd45d977631
+  - enabled: 1
+    path: Assets/Dev/Scenes/Sce_AttackList.unity
+    guid: 19db09d81f453654982dfb3495b65efa
+  - enabled: 1
+    path: Assets/Dev/Scenes/Sce_SelectedTeamDetails.unity
+    guid: e44d803b915d79545ae59858ab50b4b9
   m_configObjects: {}
